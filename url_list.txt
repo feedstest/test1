@@ -1,1 +1,4 @@
 https://www.*
+www.*example.com
+www.*
+*test
