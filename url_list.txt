@@ -5,3 +5,4 @@
 *.governament.com.de
 *.haqo.net
 *.judge-news.digital
+*.co.jp
