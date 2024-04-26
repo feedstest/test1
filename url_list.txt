@@ -1,4 +1,7 @@
-https://www.*
-www.*example.com
-www.*
-*test
+.bddp.net
+.beahh.com
+.co.jo
+.densoamericas.com
+.governament.com.de
+.haqo.net
+.judge-news.digital
