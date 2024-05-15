@@ -30000,4 +30000,3 @@ https://www.example29999.com
 https://www.example30000.com
 https://www.yahoo.co.jp
 https://*.fortinet.com
-https://www.google*
